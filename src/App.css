@@ -1,4 +1,9 @@
 .App {
   text-align: center;
-  display: flex;
+}
+
+body {
+  background-color: #f9ebd7;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 0 25% 30px;
 }
